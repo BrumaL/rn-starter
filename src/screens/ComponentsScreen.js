@@ -1,8 +1,8 @@
-import React from 'react';
-import { Text, StyleSheet, View } from 'react-native';
+import React from "react";
+import { Text, StyleSheet, View } from "react-native";
 
 const ComponentsScreen = () => {
-  const name = 'Martin';
+  const name = "Martin Test";
 
   return (
     <View>
